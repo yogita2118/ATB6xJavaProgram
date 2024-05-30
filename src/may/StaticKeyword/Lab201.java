@@ -35,7 +35,7 @@ class ATB {
     }
 
 
-    static String courseName = "ATB"; // Static Variable
+    static String courseName = "ATB"; // Static Var able
     String phoneNo; // Non static , Instance Variable
 
     public ATB(String phoneNo) {
